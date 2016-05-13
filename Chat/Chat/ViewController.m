@@ -20,7 +20,7 @@
     
     NSLog(@"rongchat");
     
-    
+    NSLog(@"commit to branch1");
 }
 
 - (void)didReceiveMemoryWarning {
